@@ -6,4 +6,6 @@ This is a repository of Jupyter Notebooks for the course An Introduction to the 
 <https://longbaonguyen.github.io/courses/dft/discrete_fourier.html>
 
 
+You can run these Jupyter notebooks by clicking on the "launch binder" logo below!
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LongBaoNguyen/discrete_fourier_problem_sets/master)
